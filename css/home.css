@@ -196,6 +196,18 @@ aside ul li a:hover {
   text-decoration: underline;
 }
 
+#quote {
+  font-size: 15px;
+  font-style: italic;
+  font-family: 'Roboto Mono', monospace;
+  color: #555;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
 
 
