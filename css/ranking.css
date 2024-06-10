@@ -128,8 +128,8 @@ aside ul li a:hover {
   display: flex;
   flex-direction: column;
   gap: 15px;
-  width: 80%; /* Adjust width to be smaller */
-  margin: 0 auto; /* Center the ranking list */
+  width: 80%; 
+  margin: 0 auto; 
 }
 
 .ranking-item {

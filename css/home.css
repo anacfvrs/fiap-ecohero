@@ -154,7 +154,7 @@ aside ul li a:hover {
   background-size: cover;
   background-position: center;
   flex-shrink: 0;
-  background-color: #f0f0f0; /* Adiciona um fundo cinza como fallback */
+  background-color: #f0f0f0; 
 }
 
 .card-image.exercise {
