@@ -45,4 +45,4 @@ Os colaboradores mais bem ranqueados podem resgatar recompensas oferecidas pela 
 - **CSS** 
 - **JavaScript** 
 - **LocalStorage** 
-
+- **API do Quotable** (citações motivacionais aleatórias, para página de home).
